@@ -1,4 +1,4 @@
-# Sales Data Analysis
+# Excel Sales Data Analysis
 
 ![](Intro_Image.jpg)
 
@@ -7,6 +7,7 @@ This is an assignment as part of a **Data Analysis Bootcamp facilitated by Promi
 
 ## Tasks
 ### For Task 1
+I was required to;
 1. Show only employees who are ‘Freelancers’ and highlight the ones whose salaries are above $10000.
 2. Split the employees’ full names into first names and last names.
 3. Check for duplicates and highlight if any (do not delete).
@@ -20,13 +21,13 @@ Below are screenshots of the results for task 1
 ![](Task_1_Sheet_3.png)
 
 ### For Task 2
-Using the same Sales Data, I was able to determine the following
+Using the same Sales Data, I was able to determine the following;
 1. The total Revenue and Profit generated.
 2. The average Revenue and Units Sold for every order.
 3. The total Discount is given in $.
 a4. Total number of sales recorded.
 5. The highest Profit generated.
-Create a column named ‘Sales Range’, and return ‘High Sales’ if the Sales value is above average,otherwise, return ‘Low Sales’.
+Create a column named ‘Sales Range’, and return ‘High Sales’ if the Sales value is above average, otherwise, return ‘Low Sales’.
 
 ![](Task_2_Sales_Data.jpg)
 
